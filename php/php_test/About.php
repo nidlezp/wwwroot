@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>About</title>
+  <link href="Site.css" rel="stylesheet">
+</head>
+
+<body>
+<?php include("Header.php"); ?>
+<div id="main">
+<h1>About Us</h1>
+<p>Lorem Ipsum Porem Lorem Ipsum Porem</p>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,1 @@
+<p>&copy; <?php echo date("Y"); ?> W3Schools. All rights reserved.</p>
